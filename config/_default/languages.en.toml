@@ -1,0 +1,18 @@
+locale = "en"
+label = "English"
+weight = 2
+title = "NeuroLinguistics Lab"
+
+[params]
+  displayName = "English"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "January 2, 2006"
+  logo = "img/logo.svg"
+  description = "NeuroLinguistics Research Lab — Exploring the neural basis of language processing."
+
+[params.author]
+  name = "NeuroLinguistics Lab"
+  email = "crazybob01@qq.com"
+  headline = "Exploring How the Brain Processes Language"
+  bio = "Our lab investigates the neural mechanisms underlying language comprehension, production, and acquisition using neuroimaging, electrophysiology, and behavioral methods."

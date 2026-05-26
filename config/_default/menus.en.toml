@@ -1,0 +1,50 @@
+[[main]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "People"
+  pageRef = "people"
+  weight = 20
+
+[[main]]
+  name = "Research"
+  pageRef = "research"
+  weight = 30
+
+[[main]]
+  name = "Publications"
+  pageRef = "publications"
+  weight = 40
+
+[[main]]
+  name = "News"
+  pageRef = "news"
+  weight = 50
+
+[[main]]
+  name = "Join Us"
+  pageRef = "join"
+  weight = 60
+
+[[main]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 70
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/BobBaoo"
+  weight = 200
+
+[[footer]]
+  name = "Home"
+  pageRef = "/"
+  weight = 10
+
+[[footer]]
+  name = "Contact"
+  pageRef = "contact"
+  weight = 20

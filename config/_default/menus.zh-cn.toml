@@ -1,0 +1,50 @@
+[[main]]
+  name = "首页"
+  pageRef = "/"
+  weight = 10
+
+[[main]]
+  name = "团队成员"
+  pageRef = "people"
+  weight = 20
+
+[[main]]
+  name = "研究方向"
+  pageRef = "research"
+  weight = 30
+
+[[main]]
+  name = "论文发表"
+  pageRef = "publications"
+  weight = 40
+
+[[main]]
+  name = "新闻动态"
+  pageRef = "news"
+  weight = 50
+
+[[main]]
+  name = "加入我们"
+  pageRef = "join"
+  weight = 60
+
+[[main]]
+  name = "联系方式"
+  pageRef = "contact"
+  weight = 70
+
+[[main]]
+  identifier = "github"
+  pre = "github"
+  url = "https://github.com/BobBaoo"
+  weight = 200
+
+[[footer]]
+  name = "首页"
+  pageRef = "/"
+  weight = 10
+
+[[footer]]
+  name = "联系方式"
+  pageRef = "contact"
+  weight = 20

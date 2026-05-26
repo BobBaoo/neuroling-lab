@@ -1,0 +1,18 @@
+locale = "zh-cn"
+label = "简体中文"
+weight = 1
+title = "神经语言学实验室"
+
+[params]
+  displayName = "简体中文"
+  isoCode = "zh-cn"
+  rtl = false
+  dateFormat = "2006-01-02"
+  logo = "img/logo.svg"
+  description = "神经语言学实验室 — 探索语言加工的神经基础"
+
+[params.author]
+  name = "神经语言学实验室"
+  email = "crazybob01@qq.com"
+  headline = "探索大脑如何加工语言"
+  bio = "本实验室运用神经影像、脑电及行为实验等方法，研究语言理解、产出与习得的神经机制。"
